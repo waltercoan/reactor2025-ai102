@@ -3,7 +3,7 @@
 Revisão para os conteúdos da prova de certificação AI 102 Azure AI Engineer Associate
 
 ## Mapa Mental
-<a href="https://waltercoan.github.io/reactor2024-ai102/html/ai102.html">
+<a href="https://waltercoan.github.io/reactor2025-ai102/html/ai102.html">
 <img src="./html/ai102.png" width=720px></a>
 
 ## Organização
