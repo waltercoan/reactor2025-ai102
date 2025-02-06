@@ -13,6 +13,11 @@ Revisão para os conteúdos da prova de certificação AI 102 Azure AI Engineer 
 [Azure AI Engineer Associate - AI102](https://learn.microsoft.com/pt-br/credentials/certifications/azure-ai-engineer/?wt.mc_id=AZ-MVP-5003638)
 - [Microsoft Reactor São Paulo - Série - Revisão para prova AI-102 Azure AI Engineer Associate](https://developer.microsoft.com/pt-br/reactor/series/S-1469/)
 
+## Microsoft Reactor São Paulo Youtube
+### Sessão 01 - 06/02/2025
+[![06/02/2025 Sessão 01](https://img.youtube.com/vi/knD4kfxfZQw/0.jpg)](https://www.youtube.com/watch?v=knD4kfxfZQw)
+
+
 ## Organização
 
 | Walter Coan |  |
