@@ -6,6 +6,11 @@ Revisão para os conteúdos da prova de certificação AI 102 Azure AI Engineer 
 <a href="https://waltercoan.github.io/reactor2025-ai102/html/ai102.html">
 <img src="./html/ai102.png" width=720px></a>
 
+## Trilha de certificação
+[Azure AI Fundamentals - AI900](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/?wt.mc_id=AZ-MVP-5003638)
+
+[Azure AI Engineer Associate - AI102](https://learn.microsoft.com/pt-br/credentials/certifications/azure-ai-engineer/?wt.mc_id=AZ-MVP-5003638)
+
 ## Organização
 
 | Walter Coan |  |
