@@ -8,8 +8,10 @@ Revisão para os conteúdos da prova de certificação AI 102 Azure AI Engineer 
 
 ## Trilha de certificação
 [Azure AI Fundamentals - AI900](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/?wt.mc_id=AZ-MVP-5003638)
-
+- [Microsoft Reactor São Paulo #SprintAI900](https://www.youtube.com/playlist?list=PLmsFUfdnGr3yOzzC9SkekDkjonqYoZRTw)
+ 
 [Azure AI Engineer Associate - AI102](https://learn.microsoft.com/pt-br/credentials/certifications/azure-ai-engineer/?wt.mc_id=AZ-MVP-5003638)
+- [Microsoft Reactor São Paulo - Série - Revisão para prova AI-102 Azure AI Engineer Associate](https://developer.microsoft.com/pt-br/reactor/series/S-1469/)
 
 ## Organização
 
