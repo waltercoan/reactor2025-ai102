@@ -18,9 +18,12 @@ Revisão para os conteúdos da prova de certificação AI 102 Azure AI Engineer 
 [![06/02/2025 Sessão 01](https://img.youtube.com/vi/knD4kfxfZQw/0.jpg)](https://www.youtube.com/watch?v=knD4kfxfZQw)
 
 ### Sessão 02 - 13/02/2025
-[![06/02/2025 Sessão 01](https://img.youtube.com/vi/CmX2wh1RXEU/0.jpg)](https://www.youtube.com/watch?v=CmX2wh1RXEU)
+[![13/02/2025 Sessão 02](https://img.youtube.com/vi/CmX2wh1RXEU/0.jpg)](https://www.youtube.com/watch?v=CmX2wh1RXEU)
 
 [Practice Assessments](https://learn.microsoft.com/en-us/credentials/certifications/practice-assessments-for-microsoft-certifications?wt.mc_id=AZ-MVP-5003638)
+
+### Sessão 03 - 20/02/2025
+[![20/02/2025 Sessão 03](https://img.youtube.com/vi/GmrwFxbU-mI/0.jpg)](https://www.youtube.com/watch?v=GmrwFxbU-mI)
 
 ## Organização
 
